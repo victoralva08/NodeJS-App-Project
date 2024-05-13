@@ -1,0 +1,20 @@
+{
+  "name": "template-engines",
+  "version": "1.0.0",
+  "description": "Small project which uses template engines",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
